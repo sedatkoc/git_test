@@ -1,0 +1,1 @@
+This is Sedat's git test project!
